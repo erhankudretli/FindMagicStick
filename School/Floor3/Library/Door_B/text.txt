@@ -1,1 +1,1 @@
-Stick is not here
+remember using  ls - a to see hidden files
