@@ -1,4 +1,4 @@
 You are in a school with 3 floors.
-Search the floors and their parts to fint the MAGIC STICK
+Search the floors and their parts to find the MAGIC STICK
 
 HINT: pwd, cd, cat etc....
